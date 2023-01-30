@@ -1,0 +1,19 @@
+{
+  "name": "everylivesmatters",
+  "version": "1.0.0",
+  "description": "For those Animals who can't get an lower than average life,so initiative is to atleast help them whatever the way you can.",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Help",
+    "Animals"
+  ],
+  "author": "Aquib Mahmood",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
